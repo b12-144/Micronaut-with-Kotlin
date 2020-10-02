@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.jdeers
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, config-kubernetes, config4k, data, data-jpa, docker, file-watch, gradle, hibernate-jpa, http-client, jdbc-hikari, jib, jrebel, junit, kotlin, kotlin-application, kubernetes, logback, management, netty-server, openapi, postgres, readme, testcontainers]
