@@ -1,4 +1,4 @@
-# Micronaut Kotlin Sample
+# Micronaut with Kotlin
 Micronaut [Kotlin](https://kotlinlang.org/) sample project serving as a bootstrap base project for your own projects. This project uses [JPA](https://www.javatpoint.com/jpa-tutorial), [Hibernate](http://hibernate.org/), [Config4K](https://github.com/config4k/config4k), [TDD](https://en.wikipedia.org/wiki/Test-driven_development) with [JUnit5](https://micronaut-projects.github.io/micronaut-test/latest/guide/#junit5) and exposes the API through Swagger.
 
 <!--toc generated automatically by running markdown-toc -i README.md-->
